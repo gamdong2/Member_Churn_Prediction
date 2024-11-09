@@ -1,4 +1,4 @@
-# 프로젝트 작업 내역
+# 만료 및 탈퇴 회원 예측 모델
 
 ## Skills
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp; <!--scikitlearn-->
