@@ -19,7 +19,7 @@
 ## 워크플로우
 
 1. 패키지 임포트
-  - 사용한 주요 패키지: pandas, seaborn, numpy, matplotlib, scikit-learn, imblearn
+   - 사용한 주요 패키지: pandas, seaborn, numpy, matplotlib, scikit-learn, imblearn
 2. 데이터 로드 및 요약
   - 데이터를 로드하고 데이터프레임의 형태와 컬럼을 확인하여 데이터 구조를 파악
 3. 데이터 전처리
