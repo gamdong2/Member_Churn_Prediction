@@ -19,19 +19,19 @@
 ## 워크플로우
 
 1. 패키지 임포트
-- 사용한 주요 패키지: pandas, seaborn, numpy, matplotlib, scikit-learn, imblearn
+  - 사용한 주요 패키지: pandas, seaborn, numpy, matplotlib, scikit-learn, imblearn
 2. 데이터 로드 및 요약
-- 데이터를 로드하고 데이터프레임의 형태와 컬럼을 확인하여 데이터 구조를 파악
+  - 데이터를 로드하고 데이터프레임의 형태와 컬럼을 확인하여 데이터 구조를 파악
 3. 데이터 전처리
-- 결측값을 확인하고, 새로운 feature(`residual_point`)를 생성하여 추가
+  - 결측값을 확인하고, 새로운 feature(`residual_point`)를 생성하여 추가
 4. 스케일링 및 변수 변환
-- `MinMaxScaler`를 사용해 데이터를 0과 1 사이로 스케일링하고 로그, 제곱근 변환을 통해 데이터 분포를 정규화
+  - `MinMaxScaler`를 사용해 데이터를 0과 1 사이로 스케일링하고 로그, 제곱근 변환을 통해 데이터 분포를 정규화
 5. 오버샘플링을 통한 클래스 불균형 해결
-- SMOTE(Synthetic Minority Over-sampling Technique)를 사용하여 소수 클래스의 데이터를 증강
+  - SMOTE(Synthetic Minority Over-sampling Technique)를 사용하여 소수 클래스의 데이터를 증강
 6. 모델 학습
-- 소프트맥스 회귀 모델을 사용하여 다중 클래스 분류 수행
+  - 소프트맥스 회귀 모델을 사용하여 다중 클래스 분류 수행
 7. 성능 평가 및 시각화
-- Confusion Matrix, ROC 커브, AUC 점수를 통해 모델의 성능을 평가하고, 이를 시각화하여 비교
+  - Confusion Matrix, ROC 커브, AUC 점수를 통해 모델의 성능을 평가하고, 이를 시각화하여 비교
 
 ## 프로젝트 결과
 
