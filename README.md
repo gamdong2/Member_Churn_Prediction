@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp; <!--numpy-->
 <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>&nbsp; <!--matplotlib-->
 
-## 프로젝트 제목
-**만료 및 탈퇴 회원 예측 모델 개발**
-
 ## 프로젝트 상세
 
 - **진행 기간**: 2024년 8월 22일
